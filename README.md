@@ -1,8 +1,7 @@
 - 🌊 @Azeroth
 - 👀 Développeur FiveM
-- 🍀 En développement sur Sincity v3
 - 🧾 En collaboration avec crox
-- 📫 Me contacter avec sincityv3@gmail.com
+- 📫 Me contacter avec mon discord
 
 <!---
 AzerothSixhten/AzerothSixhten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
