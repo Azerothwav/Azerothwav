@@ -33,6 +33,7 @@ You can click the Preview link to take a look at your changes.
 1. 🎉 Creates a new core [AzerothSixhten/Az_coreutils](https://github.com/AzerothSixhten/Az_coreutils)
 2. 🎉 Creates a new script [AzerothSixhten/Az_coreesx](https://github.com/AzerothSixhten/Az_coreesx)
 3. 🎉 Creates a new core [AzerothSixhten/Az_coreutils](https://github.com/AzerothSixhten/Az_coreutils)
+4. 🎉 Creates a new script [AzerothSixhten/Az_parking](https://github.com/AzerothSixhten/Az_parking)
 <!--END_SECTION:activity-->
 
 </details>
