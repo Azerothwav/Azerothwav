@@ -27,6 +27,8 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AzerothSixhten&theme=blue-white)
+
 ---
 
 <details>
@@ -44,3 +46,5 @@ You can click the Preview link to take a look at your changes.
 
 [webdevplaylist]: https://www.youtube.com/watch?v=ee21xAWnBMg
 [cssplaylist]: https://www.youtube.com/watch?v=ee21xAWnBMg
+
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AzerothSixhten&show_icons=true)
