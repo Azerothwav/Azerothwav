@@ -2,15 +2,11 @@
 ![logo2](https://user-images.githubusercontent.com/76072277/132126828-66cd4fde-2a6e-4189-819a-336b349c57e1.png)
 
 
-<!---
-AzerothSixhten/AzerothSixhten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## I'm Azeroth, Developer, Helper and Player
+## I'm Azeroth, Developer LUA
 
 - 🌊 French developer 
 - 👀 Developer  FiveM
-- 🧾 In collaboration with crox
+- 🧾 In collaboration with Crox
 - 📫 Contact me with my discord : Azeroth#8264
  ---
 
@@ -34,11 +30,9 @@ You can click the Preview link to take a look at your changes.
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Creates a new core [AzerothSixhten/Az_coreutils](https://github.com/AzerothSixhten/Az_coreutils)
-2. 🎉 Creates a new script [AzerothSixhten/Az_coreesx](https://github.com/AzerothSixhten/Az_coreesx)
-3. 🎉 Creates a new core [AzerothSixhten/Az_coreutils](https://github.com/AzerothSixhten/Az_coreutils)
-4. 🎉 Creates a new script [AzerothSixhten/Az_concessionaire_utils](https://github.com/AzerothSixhten/Az_concessionaire_utils)
-5. 🎉 Creates a new script [AzerothSixhten/Az_parking](https://github.com/AzerothSixhten/Az_parking)
+1. 🎉 Creates a new script [AzerothSixhten/Az_trailer](https://github.com/AzerothSixhten/az_trailer)
+2. 🎉 Creates a new script [AzerothSixhten/Az_wheeldamage](https://github.com/AzerothSixhten/az_wheeldamage)
+3. 🎉 Creates a new core [AzerothSixhten/Az_nomorealtf4](https://github.com/AzerothSixhten/az_nomorealtf4)
 <!--END_SECTION:activity-->
 
 </details>
