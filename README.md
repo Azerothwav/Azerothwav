@@ -22,7 +22,7 @@
 <br />
 <br />
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AzerothSixhten&theme=blue-white)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Azerothwav&theme=blue-white)
 
 ---
 
@@ -30,9 +30,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚛 Creates a new script [AzerothSixhten/Az_trailer](https://github.com/AzerothSixhten/az_trailer)
-2. 🚗 Creates a new script [AzerothSixhten/Az_wheeldamage](https://github.com/AzerothSixhten/az_wheeldamage)
-3. 🎉 Creates a new script [AzerothSixhten/Az_nomorealtf4](https://github.com/AzerothSixhten/az_nomorealtf4)
+1. 🚛 Creates a new script [Azerothwav/Az_trailer](https://github.com/Azerothwav/az_trailer)
+2. 🚗 Creates a new script [Azerothwav/Az_wheeldamage](https://github.com/Azerothwav/az_wheeldamage)
+3. 🎉 Creates a new script [Azerothwav/Az_nomorealtf4](https://github.com/Azerothwav/az_nomorealtf4)
 <!--END_SECTION:activity-->
 
 </details>
@@ -40,5 +40,5 @@
 [webdevplaylist]: https://www.youtube.com/watch?v=ee21xAWnBMg
 [cssplaylist]: https://www.youtube.com/watch?v=ee21xAWnBMg
 
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AzerothSixhten&show_icons=true)  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azerothsixhten&" alt="azerothsixhten" /></p>
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Azerothwav&show_icons=true)  
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azerothwav&" alt="azerothwav" /></p>
