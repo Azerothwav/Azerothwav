@@ -43,4 +43,4 @@
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Azerothwav&show_icons=true)  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azerothwav&" alt="azerothwav" /></p>
 
-<p align="center"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=Azerothwav&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" /></a> </p>
+<p align="center"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=Azerothwav&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" alt="azeroth"/></a> </p>
