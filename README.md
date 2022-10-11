@@ -16,7 +16,7 @@
 </p>
 
 <details align="center">
-  <summary>:zap: Know me better</summary>
+  <summary>:zap: Learn to know me better</summary>
   <br>
   <img width="200" href="https://ko-fi.com/Z8Z7DMZ7S" src="https://ko-fi.com/img/githubbutton_sm.svg">
   <p>- 🌊 French developer </p>
