@@ -30,7 +30,6 @@
   <img width="500" src="https://user-images.githubusercontent.com/76072277/195160337-2f26d5dd-daba-42f3-9273-9171a03ae132.png">
 </p>
 <p align="center">
-  [![StarRating Component](https://readme-components.vercel.app/api?component=star-rating&skill=css3&text=4)](https://github.com/harish-sethuraman/readme-components)
 </p>
 
 ---
