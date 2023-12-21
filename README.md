@@ -9,7 +9,7 @@ Polyvalent developer and ethical-hacking fan.
 * 🤝  I'm open to collaborating on any open-source project where i can be useful
 
 <a href="https://www.github.com/Azerothwav" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Azerothwav?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/Azerothwav?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.ko-fi.com/azeroth"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
 ### Skills
 
 <p align="left">
@@ -33,7 +33,3 @@ src="https://img.shields.io/github/followers/Azerothwav?logo=github&style=for-th
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/Azerothwav/Az_wheeldamage" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Azerothwav&repo=Az_wheeldamage&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Azerothwav/Az_parking" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Azerothwav&repo=Az_parking&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-### Support Me
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/azeroth"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
